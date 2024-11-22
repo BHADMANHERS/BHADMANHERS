@@ -1,0 +1,1 @@
+Welcome to my portfolio! This website showcases my skills, projects, and experiences as a web developer. It is designed to highlight my expertise in creating functional, visually appealing, and user-friendly web applications.
